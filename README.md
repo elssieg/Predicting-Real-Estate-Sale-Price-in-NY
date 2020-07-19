@@ -1,2 +1,10 @@
-# Predicting-Real-Estate-Sale-Price-in-NY
-This is my final project in my Machine Learning class in which I look at different algorithms, and select the best one to predict the Sale Price. We looked at KNN, Decision Tree, Naive Bayes, Kmeans, and PCA to reduce my dimensionality of my dataset. 
+# Overview
+
+For my final project in _DSC-478: Programming Machine Learning Application_, I weighed multiple algorithms against one another to determine the best fit for predicting the sales price of real estate in New York City. The algorithms I looked in to were:
+
+* K-Nearest Neighbors (KNN)
+* Decision Tree
+* Naive Bayes
+* K-Means
+
+Reduction in the dimensionality of the dataset was handled by the Principal Component Analysis (PCA) algorithm.
