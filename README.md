@@ -13,5 +13,5 @@ For my final project in _DSC-478: Programming Machine Learning Application_, I w
 
 1) Analyzed dataset to determine variables, and best approach for processing.
 2) Converted categorical variables into dummy variables.
-3) Split data into training and testing, which normalized the data.
+3) Split data into training and testing, and normalized the data.
 4) Processed data using the above machine learning techniques.
